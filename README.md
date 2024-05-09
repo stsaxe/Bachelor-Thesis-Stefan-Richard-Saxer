@@ -15,5 +15,7 @@ The folder containing the data (including both pcap and csv files) can be found 
 
 Link to data: https://1drv.ms/f/s!Au7gDOusncKMh6hJRKVrqbSwfx2lew?e=Igbs8R
 
+**Note**: Local execution requires Python Version **3.12** or later. 
+
 
 

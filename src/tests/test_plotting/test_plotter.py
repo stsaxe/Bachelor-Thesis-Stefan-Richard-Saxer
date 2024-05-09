@@ -2,7 +2,6 @@ import unittest
 
 import pandas as pd
 import numbers
-from src.plotting import plotter
 from src.plotting.plotter import *
 
 

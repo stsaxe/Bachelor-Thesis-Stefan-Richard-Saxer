@@ -11,7 +11,7 @@ The repositories' directories contain the following files:
 - **wireshark_profile**: the wireshark profile used to export from pcap to csv
 
 
-The folder containing the data (including both pcap and csv files) can be found on the link below on my OneDrive share, as it is too large for GitHub. Include the "data" folder as is on the top level directory to execute the Jupyter notebooks locally. 
+The folder containing the data (including both pcap and csv files) can be found on the link below on my OneDrive share, as it is too large for GitHub. Include the "data" folder as is on the top level directory to execute the Jupyter Notebooks locally. 
 
 Link to data: https://1drv.ms/f/s!Au7gDOusncKMh6hJRKVrqbSwfx2lew?e=Igbs8R
 

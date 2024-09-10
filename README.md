@@ -11,6 +11,7 @@ The repositories' directories contain the following files:
 - **src**: Various Python functions and classes used in the Jupyter Notebooks such as the Task-Group-Framework.
 - **tables**: The classification reports for the evaluation of the machine learning models.
 - **wireshark_profile**: The Wireshark profile used to export from PCAP to CSV.
+- **Bachelor Thesis Stefan Richard Saxer**: The written thesis. 
 
 
 The folder containing the data (including both PCAP and CSV files) can be found on the link below on Kaggle, as it is too large for GitHub. Include the "data" folder as is on the top level directory to execute the Jupyter Notebooks locally. 

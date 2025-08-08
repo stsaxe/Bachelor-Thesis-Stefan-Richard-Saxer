@@ -1,6 +1,6 @@
 # Dataset Generation and Feature Extraction for High-Traffic Environment Personal Tracker Identification
 
-This is the Bachelor Thesis of Stefan Richard Saxer, written in the spring of 2024 with the Communication Systems Group at the University of Zurich (UZH). The thesis was awarded the [KUVS prize](https://kuvs.de/netsys/2025/program) for best Bachelor Thesis 2024 at the NetSys conference 2025 in Illmenau, Thuringia. The written thesis can be found [here]([Bachelor Thesis Stefan Richard Saxer.pdf](https://github.com/stsaxe/Bachelor-Thesis-Stefan-Richard-Saxer/blob/master/Bachelor%20Thesis%20Stefan%20Richard%20Saxer.pdf)) in PDF format.  
+This is the Bachelor Thesis of Stefan Richard Saxer, written in the spring of 2024 with the Communication Systems Group at the University of Zurich (UZH). The thesis was awarded the [KUVS prize](https://kuvs.de/netsys/2025/program) for best Bachelor Thesis 2024 at the NetSys conference 2025 in Illmenau, Thuringia. The written thesis can be found [here](https://github.com/stsaxe/Bachelor-Thesis-Stefan-Richard-Saxer/blob/master/Bachelor%20Thesis%20Stefan%20Richard%20Saxer.pdf) in PDF format.  
 
 The repositories' directories contain the following files:
 - **notebooks**: The Jupyter Notebooks that are covered in the written thesis.
